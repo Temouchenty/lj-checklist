@@ -57,6 +57,8 @@ end)
 ![resource ms](https://user-images.githubusercontent.com/91661118/140660899-aa967275-0793-4cd5-87e9-95847570e447.PNG)
 ### checklist menu
 ![checklist menu](https://user-images.githubusercontent.com/91661118/140660906-f1074ff7-6cad-4e90-a440-06a566a0512f.PNG)
+### checklist fullscreen
+![checklist menu](https://user-images.githubusercontent.com/91661118/140661098-acea01de-934e-4f44-a4aa-1705a018cbad.png)
 #
 
 # Change Logs
