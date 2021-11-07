@@ -9,6 +9,9 @@ lj-checklist is a creative way to guide new players through your server. I stumb
 <br>
 Runs at ~ 0.00 ms
 
+# Optional
+* [interact-sound](https://github.com/qbcore-framework/interact-sound) (if you want sound effect)
+
 # Installation
 
 ## qb-clothing
@@ -50,6 +53,7 @@ end)
 * Sets Focus so players can't move until the click accept button
 * Changable logo found in CSS
 * Toggleable menu incase players need to read through again
+* Sound effect when menu is open optionable
 #
 
 # Previews
